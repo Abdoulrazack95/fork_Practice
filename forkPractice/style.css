@@ -6,3 +6,8 @@
 h1{
     color:red;
 }
+body{
+    background-color:teal;
+    margin:60px;
+    padding:80px;
+}
